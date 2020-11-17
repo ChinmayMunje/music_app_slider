@@ -1,4 +1,4 @@
-# music_flutter_app
+# movie_app_slider
 
 A new Flutter application.
 
